@@ -11,9 +11,9 @@ Every digital asset, software module, and physical specification published by CK
 ---
 
 ## ⚡ FLASH SALE: Creator Micro-License ($249)
-**Status: ACTIVE | Limit: 10 Units**
+**Status: REACTIVATED | Limit: 10 Units**
 Immediate commercial rights for independent creators, backed by commit receipts. Includes the verified provenance badge.
-- **Acquire Now:** [Secure Creator Micro-License](https://buy.stripe.com/9B64gydvW7F54ra40j1Nu0N?utm_source=github&utm_medium=readme&utm_campaign=cash_sprint)
+- **Acquire Now:** [Secure Creator Micro-License](https://buy.stripe.com/9B64gydvW7F54ra40j1Nu0N?utm_source=github&utm_medium=readme&utm_campaign=cash_sprint_v2)
 
 ---
 
